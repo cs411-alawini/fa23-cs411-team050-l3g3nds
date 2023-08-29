@@ -9,9 +9,9 @@
 | Captain     |       Twinkle Yeruva   |
 | Captain     |  tyeruva2@illinois.edu |
 | Member1     |       Tamir Battsogt   |
-| Member1     |          Ronje Roy              |
+| Member1     |                        |
 | Member2     |                        |
-| Member2     |                        |
+| Member2     |        Ronje Roy       |
 | Member3     |                        |
 | Member3     |                        |
 
