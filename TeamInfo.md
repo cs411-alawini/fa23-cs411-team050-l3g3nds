@@ -8,7 +8,7 @@
 | TeamName    |         l3g3nds        |
 | Captain     |       Twinkle Yeruva   |
 | Captain     |  tyeruva2@illinois.edu |
-| Member1     |                        |
+| Member1     |       Tamir Battsogt   |
 | Member1     |                        |
 | Member2     |                        |
 | Member2     |                        |
