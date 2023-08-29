@@ -1,17 +1,17 @@
-# team000-sample
+# team050
 
 ## Basic Information
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-| TeamID      |        Team-000        |
-| TeamName    |         sample         |
-| Captain     |       Abdu Alawini     |
-| Captain     |  alawini@illinois.edu  |
-| Member1     |        Kevin Pei       |
-| Member1     |   kevin2@illinois.edu  |
-| Member2     |    Bharati Kulkarni    |
-| Member2     |  bharati1@illinois.edu |
+| TeamID      |        Team-050        |
+| TeamName    |         l3g3nds        |
+| Captain     |       Twinkle Yeruva   |
+| Captain     |  tyeruva2@illinois.edu |
+| Member1     |                        |
+| Member1     |                        |
+| Member2     |                        |
+| Member2     |                        |
 | Member3     |                        |
 | Member3     |                        |
 
