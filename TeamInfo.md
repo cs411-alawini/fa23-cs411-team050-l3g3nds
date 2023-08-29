@@ -10,10 +10,10 @@
 | Captain     |  tyeruva2@illinois.edu |
 | Member1     |       Tamir Battsogt   |
 | Member1     |                        |
-| Member2     |                        |
 | Member2     |        Ronje Roy       |
-| Member3     |                        |
-| Member3     |                        |
+| Member2     |                        |
+| Member3     |  Advait Renduchintala  |
+| Member3     |        advaitr3        |
 
 ## Project Information
 
