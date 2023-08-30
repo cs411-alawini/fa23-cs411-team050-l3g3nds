@@ -9,7 +9,7 @@
 | Captain     |       Twinkle Yeruva   |
 | Captain     |  tyeruva2@illinois.edu |
 | Member1     |       Tamir Battsogt   |
-| Member1     |                        |
+| Member1     |   tamirb2@illinois.edu |
 | Member2     |        Ronje Roy       |
 | Member2     |  ronojoy2@illinois.edu |
 | Member3     |  Advait Renduchintala  |
