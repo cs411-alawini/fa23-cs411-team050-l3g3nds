@@ -13,13 +13,13 @@
 | Member2     |        Ronje Roy       |
 | Member2     |  ronojoy2@illinois.edu |
 | Member3     |  Advait Renduchintala  |
-| Member3     |        advaitr3        |
+| Member3     |  advaitr3@illinois.edu |
 
 ## Project Information
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-|  Title      |       ProjectTitle     |
+|   Title     |       ProjectTitle     |
 | System URL  |      link_to_system    |
 | Video Link  |      link_to_video     |
 
