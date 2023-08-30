@@ -11,7 +11,7 @@
 | Member1     |       Tamir Battsogt   |
 | Member1     |                        |
 | Member2     |        Ronje Roy       |
-| Member2     |        ronojoy2        |
+| Member2     |  ronojoy2@illinois.edu |
 | Member3     |  Advait Renduchintala  |
 | Member3     |        advaitr3        |
 
