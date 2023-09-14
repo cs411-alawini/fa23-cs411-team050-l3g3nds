@@ -22,7 +22,7 @@ Websites such as steam and epic games can’t sort by more niche attributes such
 Our data is a compilation of game titles and the related game attributes. The data contains information such as a game's computer requirements, age requirements, price, etc. We can retrieve this data from the “Steam Game Data” link in the provided TA dataset doc. 
 
 ### low-fidelity UI mockup:
-
+![IMG_4169](https://github.com/cs411-alawini/fa23-cs411-team050-l3g3nds/assets/92771337/b70abe2c-f585-44bf-b5e8-53cac806f188)
 
 ### Functionality: 
 
